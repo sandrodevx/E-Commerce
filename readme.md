@@ -1,41 +1,62 @@
-https://sandrodevx.github.io/E-Commerce/
+# 🛒 Online Store - Fictional eCommerce
 
-# 🛒 Tienda Online - eCommerce Ficticio
+[View Live Page](https://sandrodevx.github.io/E-Commerce/)
 
-Este es un **proyecto ficticio de eCommerce especializado en tecnología**, donde se presentan productos innovadores como **relojes inteligentes, auriculares AR y cámaras de seguridad con IA**.  
-El objetivo de este proyecto es servir como práctica para el desarrollo de páginas web utilizando **HTML y CSS**, implementando diseño responsivo para una experiencia óptima en diferentes dispositivos.
-
----
-
-## 🌟 Características del Proyecto
-
-✅ **Catálogo de productos** con imágenes, descripciones y precios.  
-✅ **Diseño atractivo y minimalista** con efectos dinámicos en los productos.  
-✅ **Optimización responsiva** mediante `@media queries`.  
-✅ **Botones interactivos** para añadir productos al carrito.  
-✅ **Footer con redes sociales** para mayor realismo.  
+This is a fictional eCommerce project specializing in technology, featuring innovative products such as smartwatches, AR headphones, and AI-powered security cameras.  
+The goal of this project is to serve as practice for web development using HTML and CSS, implementing responsive design for an optimal experience across different devices.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## 🌟 Project Features
 
-- **HTML5** → Para la estructura de la página web.  
-- **CSS3** → Para los estilos, efectos y diseño responsivo.  
-- **Flexbox & Grid** → Para mejorar la organización y presentación de los productos.  
-- **Media Queries** → Para adaptar el sitio a diferentes tamaños de pantalla.  
+- ✅ **Product catalog** with images, descriptions, and prices.
+- ✅ Attractive and minimalist design with dynamic effects on products.
+- ✅ Responsive optimization using `@media` queries.
+- ✅ Interactive buttons to add products to the cart.
+- ✅ Footer with social media links for added realism.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** → For the webpage structure.
+- **CSS3** → For styles, effects, and responsive design.
+- **Flexbox & Grid** → To improve the organization and presentation of products.
+- **Media Queries** → To adapt the site to different screen sizes.
 
 ---
 
+## 📱 Responsive Design
 
+This project has been optimized to display correctly on various devices, including:
 
-## 📱 Diseño Responsivo
+- ✅ **Computers** (large screens).
+- ✅ **Tablets** (medium screens).
+- ✅ **Smartphones** (small screens).
 
-Este proyecto ha sido optimizado para visualizarse correctamente en distintos dispositivos, incluyendo:
-
-✅ **Computadoras** (pantallas grandes).  
-✅ **Tablets** (pantallas medianas).  
-✅ **Smartphones** (pantallas pequeñas).  
-
-Se han utilizado `@media queries` para ajustar la disposición de los elementos en cada tamaño de pantalla.
+`@media` queries have been used to adjust the layout of elements for each screen size.
 
 ---
+
+## 🚀 How to Use
+
+1. Clone the repository or download the source code.
+2. Open the `index.html` file in your browser to view the project.
+3. Explore the product catalog and interact with the "Add to Cart" buttons.
+
+---
+
+## 📝 Notes
+
+This project is purely for educational and practice purposes. It does not include backend functionality or a real shopping cart system.
+
+---
+
+## 🙌 Credits
+
+- **Images**: Generated using AI tools for a realistic product presentation.
+- **Icons**: Social media icons from free icon libraries.
+
+---
+
+Enjoy exploring the project! 😊
